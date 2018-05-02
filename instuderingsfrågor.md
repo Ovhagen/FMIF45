@@ -1,9 +1,8 @@
-
 # Instuderingsfrågor
 
 ### Hållbar utveckling
 ##### 1. Hur definieras hållbar utveckling? Använd den ungefärliga standarddefinitionen som den är framlagd av bl.a Brundtland-kommissionen?
-Brundtland-definitionen från 1987:
+Brundtland-definitionen från 1987 ges nedan:
 >En hållbar utveckling tillfredsställer dagens behov utan att äventyra kommande generationers möjligheter att tillfredsställa sina behov.  
 
 Hållbar utveckling är ett normativt begrepp som säger vad vi borde göra.
@@ -24,10 +23,15 @@ Exempel på dessa tre dimensioner i kontext av en mobiltelefontillverkare skulle
 
 I miljösammanhang är decoupling att bryta sambandet mellan ökad inkomst och resursanvändning. Då vi har begränsade resurser vill vi minska resursanvändningen men behålla stigande inkomster allt eftersom bärkraften (tillgängliga resurser) minskar över tid. Således måste konsumptionsmönster förändras och fokus bör ligga på att bevara resurser. 
 
-[![N|Solid](https://cdn1.imggmi.com/uploads/2018/5/2/aa041c29a495517813b01caf24d8445f-full.png)]
+![N|Solid](https://cdn1.imggmi.com/uploads/2018/5/2/aa041c29a495517813b01caf24d8445f-full.png) 
 
 ##### 4. Förklara begreppen dematerialisering och transmaterialisering.
 
+Dematerialisering innebär att minska mängden material som används för att till exempel tillverka en produkt men fortfarande behålla dess funktionalitet.
+
+Transmaterialisering ("bortom materialet") är att åstadkomma samma nytta med en produkt/tjänst medans man minskar förburkningen av farliga/sällsynta ämnen eller helt byter tillverkningsmetd för att eliminerar materialanvändningen helt.
+
+Båda dessa begrepp är centrala i att minska resursanvändningen över tid och lyckas med decoupling.
 
 ##### 5. Hur många miljökvalitetsmål har Sverige?
 
