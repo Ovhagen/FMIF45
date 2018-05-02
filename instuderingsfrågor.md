@@ -82,20 +82,20 @@ CSR (Corporate Social Responsibility) syftar på företags samhällsansvar att t
 
 - VOC: Halverats sedan 1990.
 
-##### Hur bildas marknära ozon? Vilka miljö/hälsoproblem är föreningen förknippad med? 
+###### Hur bildas marknära ozon? Vilka miljö/hälsoproblem är föreningen förknippad med? 
 
 Bildas med förorenad luft pga utsläpp under inverkan av solljus. Blandning av gaser som VOC, NOx osv.
 
 Påverkan på hälsan som nedsatt lungfunktion hos asmatiker och ökad dödlighet. I naturen så minskar ozon växters möjlighet att ta upp koldioxid vilket påverkar djurliv, jordbruk och bidrar således negativt till växthuseffekten.
 
 
-##### Vilka föroreningar bidrar till övergödning? Varför är övergödning ett problem?
+###### Vilka föroreningar bidrar till övergödning? Varför är övergödning ett problem?
 
 Kväveoxider och fosfater anses vara de stora faktorerna som bidrar till övergödning.
 
 Övergödning är ett problem då skogar och vattendrag får ett överskott av näringsämnen. Detta ökar bildning av alger som förstör liv i och runt om sjöar då det blir syrebrist och utveckling av giftiga ämnen.
 
-##### Vilka föroreningar orsakar försurning av mark och sjöar samt vilka konsekvenser följer av försurning?
+###### Vilka föroreningar orsakar försurning av mark och sjöar samt vilka konsekvenser följer av försurning?
 
 Orsakas av kväveoxider, svaveloxider och ammoniak (gödsel i jordbruk).
 
@@ -103,13 +103,37 @@ Konsekvenserna av försurning är urlakning av näringsämnen som gör det svår
 
 ### Klimat
 
-#####
+##### Nämn 3 växt husgaser som bidrar till global uppvärmning samt deras primära källor. Vilken växthusgas bidrar mest till den globala uppvärmningen?
 
-#####
+- NOx: Kväveoxider
 
-#####
+
+- Ox: Ozon
+
+
+-
+
+##### Vilken växthusgas i atmosfären är den dominerande med avseende på det totala bidraget till växthuseffekten? 
+
+##### Vad är en CO2-ekvivalent? 
+
+##### Hur fungerar växthuseffekten (växthusgaser, strålning....)?
+
+##### Vad menas med naturlig respektive förstärkt växthuseffekt?
+
+##### Vilka konsekvenser förväntas den globala uppvärmningen få på de naturliga systemen?
+
+##### Globalt har man satt upp som mål att temperaturen endast bör öka med mellan 1,5 till 2 grader.
+
+###### Vilken internationell överenskommelse reglerar detta?
+
+###### Vad innebär målet för världens och Sveriges utsläpp av växthusgaser? Hur snabbt måste de minska (ungefär)?
 
 ### Miljögifter
+
+##### Vilka egenskaper karaktäriserar ett miljögift?
+
+##### Vilka miljögifter finns oftast i vardagselektronik och vilka problem kan de orsaka?Ge exempel på både organiska miljögifter och toxiskta metaller. 
 
 ### Resurser och mineraler
 
