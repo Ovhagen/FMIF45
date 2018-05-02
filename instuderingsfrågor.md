@@ -18,13 +18,16 @@ Exempel på dessa tre dimensioner i kontext av en mobiltelefontillverkare skulle
 
 - Ekonomisk: Den ekonomiska dimensionen handlar om hur vi hushåller med resurser som är viktiga för att upprätthålla mänsklig välfärd nu och i framtiden. En mobiltillverkare behöver lämpligen se över sin egen resursutvinning och beställningar av material från tredjepartsföretag. Om ändliga resurser brukas för tillverkning av komponenter är det av intresse för framtida tillverkning att minska användningen av detta av materialet om inte utesluta det helt och hållet. Även återvinning av telefoner är intressant för att bevara tillgängligheten av material.
 
-- Socialt: Den sociala dimensionen av hållbar utveckling handlar om att bygga upp och bevara sociala institutioner och strukturer som är viktiga för mänskligt välbefinnande. En aspekt som kan vara relevant för en mobiltillverkare hade varit att följa ställda krav i de länder som produkten säljs i. En social aspekt hade också varit att tillverka telefoner som inte utesluter grupper av användare som har någon funktionsnedsättning eller inte har tillräckligt bra ekonomi för att köpa dyra produkter. Detta bidrar till att upprätthålla lika förhållanden för alla individer i samhället vilket är något som är en central fråga i dagens samhälle. Även riktad makrnadsföring skulle kunna vara en intressant social aspekt.
-
-
+- Socialt: Den sociala dimensionen av hållbar utveckling handlar om att bygga upp och bevara sociala institutioner och strukturer som är viktiga för mänskligt välbefinnande. En aspekt som kan vara relevant för en mobiltillverkare hade varit att följa ställda krav i de länder som produkten säljs i. En social aspekt hade också varit att tillverka telefoner som inte utesluter grupper av användare som har någon funktionsnedsättning eller inte har tillräckligt bra ekonomi för att köpa dyra produkter. Detta bidrar till att upprätthålla lika förhållanden för alla individer i samhället vilket är något som är en central fråga i dagens samhälle. Även riktad marknadsföring skulle kunna vara en intressant social aspekt.
 
 ##### 3. Vad menas med decoupling (avlänkning) i miljösammanhang? 
 
+I miljösammanhang är decoupling att bryta sambandet mellan ökad inkomst och resursanvändning. Då vi har begränsade resurser vill vi minska resursanvändningen men behålla stigande inkomster allt eftersom bärkraften (tillgängliga resurser) minskar över tid. Således måste konsumptionsmönster förändras och fokus bör ligga på att bevara resurser. 
+
+[![N|Solid](https://cdn1.imggmi.com/uploads/2018/5/2/aa041c29a495517813b01caf24d8445f-full.png)]
+
 ##### 4. Förklara begreppen dematerialisering och transmaterialisering.
+
 
 ##### 5. Hur många miljökvalitetsmål har Sverige?
 
