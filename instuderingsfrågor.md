@@ -7,6 +7,8 @@ Brundtland-definitionen från 1987 ges nedan:
 
 Hållbar utveckling är ett normativt begrepp som säger vad vi borde göra.
 
+![N|Solid](https://cdn1.imggmi.com/uploads/2018/5/2/5c542e1c3c7a8508f78e0e60577015e2-full.png) 
+
 ##### 2. Hållbar utveckling brukar även sägas innefatta tre dimensioner. Vilka är dessa tre dimensioner? Nämn exempel på hur dessa tre dimensioner kan tolkas av en mobiltelefontillverkare.
 
 Hållbar utveckling delas främst upp i tre dimensioner; sociala, ekologiska och ekonomiska dimensionen.
@@ -35,11 +37,37 @@ Båda dessa begrepp är centrala i att minska resursanvändningen över tid och 
 
 ##### 5. Hur många miljökvalitetsmål har Sverige?
 
+16 st miljökvalitetsmål. (https://www.miljomal.se/Miljomalen/)
+
 ##### 6. Vad är Agenda 21?
 
+Agenda 21 är ett handlingsprogram antaget vid FN:s miljökonferens i Rio 1992. Dokumentet inehåller 1400 paragrafer på 40 kapitel om hur medborgare och lokala myndigheter kan sammarbeta för att motverka natur- och miljöförstöring, fattigdom och hur bristande demokrati skall utvecklas för att våra samhällen skall få en hållbar utveckling.
 ##### 7. Vad menas med CSR?
 
+CSR (Corporate Social Responsibility ) syftar på företags samhällsansvar att ta ansvar för påverkan på samhället med avseende på dem tre dimensionerna. Nya standarden ISO 26 000 innehåller sju konkreta frågor där företagen kan välja vilka områden de vill fokusera mest på.
+
+![N|Solid](https://cdn1.imggmi.com/uploads/2018/5/2/feff49351455f0c363ed6d78a59eda83-full.png)
+
 ### Luftföroreningar och dess effekter
+
+##### NOx, SOx, partiklar och flyktiga organiska kolväten (VOC) är exempel på luftföroreningar.
+
+###### Vilka mänskliga aktiviteter/sektorer bidra till utsläpp eller bildning av var och en av dessa luftföroreningar?
+
+- NOx:
+- SOx:
+- Partiklar:
+- VOC:
+
+###### Vilka miljö/hälsoproblem är luftföroreningarna förknippad med?
+
+###### Hur ser föroreningarnas utsläppstrender ut i grova drag i Sverige?
+
+##### Hur bildas marknära ozon? Vilka miljö/hälsoproblem är föreningen förknippad med? 
+
+##### Vilka föroreningar bidrar till övergödning? Varför är övergödning ett problem?
+
+##### Vilka föroreningar orsakar försurning av mark och sjöar samt vilka konsekvenser följer av försurning?
 
 ### Klimat
 
