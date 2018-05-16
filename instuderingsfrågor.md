@@ -1,11 +1,11 @@
-# Instuderingsfrågor
+ Instuderingsfrågor
 
 ### Hållbar utveckling
 ##### 1. Hur definieras hållbar utveckling? Använd den ungefärliga standarddefinitionen som den är framlagd av bl.a Brundtland-kommissionen?
 Brundtland-definitionen från 1987 ges nedan:
 >En hållbar utveckling tillfredsställer dagens behov utan att äventyra kommande generationers möjligheter att tillfredsställa sina behov.  
 
-Hållbar utveckling är ett normativt begrepp som säger vad vi borde göra.
+Hållbar utveckling är ett normativt begrepp som säger vad vi borde göra. Begreppet kan därför ändras utefter samhällets förväntningar & uppfattningar.
 
 ![N|Solid](https://cdn1.imggmi.com/uploads/2018/5/2/5c542e1c3c7a8508f78e0e60577015e2-full.png) 
 
@@ -16,10 +16,16 @@ Hållbar utveckling delas främst upp i tre dimensioner; sociala, ekologiska och
 Exempel på dessa tre dimensioner i kontext av en mobiltelefontillverkare skulle kunna vara följande:
 
 - Ekologisk: Den ekologiska dimensionen handlar om att upprätthålla naturliga system som kan fortsatt försörja människor med nyttigheter. Detta syftar främst på att bevara ekosystem i naturen så att vi kan kontinuerligt utvinna resurser i framtiden. För en mobiltelefontillverkare hade detta kunnat innebära att överse beställningar av komponenter till telefonen. Främst genom att säkerställa att tillverkare som dem köper av har kontrollerade utsläpp av växthusgaser från deras produktion så att påverkan på naturens ekosystem blir minimal. Fler intressanta punkter är distribution (internationellt, nationellt eller lokalt) av produkter och företagets egna utsläpp i produktionen.
+    
+    - TLDR: Yttre förhållanden som påverkar allt liv.
 
 - Ekonomisk: Den ekonomiska dimensionen handlar om hur vi hushåller med resurser som är viktiga för att upprätthålla mänsklig välfärd nu och i framtiden. En mobiltillverkare behöver lämpligen se över sin egen resursutvinning och beställningar av material från tredjepartsföretag. Om ändliga resurser brukas för tillverkning av komponenter är det av intresse för framtida tillverkning att minska användningen av detta materialet om inte utesluta det helt och hållet. Även återvinning av telefoner är intressant för att bevara tillgängligheten av material.
 
+    - TLDR: Hushållning av resurser, ekonomiska system som beaktar miljön & människan.
+
 - Socialt: Den sociala dimensionen av hållbar utveckling handlar om att bygga upp och bevara sociala institutioner och strukturer som är viktiga för mänskligt välbefinnande. En aspekt som kan vara relevant för en mobiltillverkare hade varit att följa ställda krav i de länder som produkten säljs i. En social aspekt hade också varit att tillverka telefoner som inte utesluter grupper av användare som har någon funktionsnedsättning eller inte har tillräckligt bra ekonomi för att köpa dyra produkter. Detta bidrar till att upprätthålla lika förhållanden för alla individer i samhället vilket är något som är en central fråga i dagens samhälle. Även riktad marknadsföring skulle kunna vara en intressant social aspekt.
+
+    - TLDR: Rättvis fördelning av makt & resurser, mänskliga rättigheter, socialt kapital.
 
 ##### 3. Vad menas med decoupling (avlänkning) i miljösammanhang? 
 
@@ -37,11 +43,22 @@ Båda dessa begrepp är centrala i att minska resursanvändningen över tid och 
 
 ##### 5. Hur många miljökvalitetsmål har Sverige?
 
-16 st miljökvalitetsmål som skall nås till år 2020. (https://www.miljomal.se/Miljomalen/)
+16 st miljökvalitetsmål som skall nås till år 2020. (http://www.sverigesmiljomal.se/)
+
+Målen omfattar t.ex:
+
+    - Att värna om luft, vatten, skog, våtmarker, och urbana miljöer.
+    - Försurning och övergödning.
+    - Strålning.
+    - Klimatpåverkan.
+    - Miljögifter.
 
 ##### 6. Vad är Agenda 21?
 
 Agenda 21 är ett handlingsprogram antaget vid FN:s miljökonferens i Rio 1992. Dokumentet inehåller 1400 paragrafer på 40 kapitel om hur medborgare och lokala myndigheter kan sammarbeta för att motverka natur- och miljöförstöring, fattigdom och hur bristande demokrati skall utvecklas för att våra samhällen skall få en hållbar utveckling.
+
+Programmet är ej juridiskt bindande utan omfattar rekommendationer.
+
 ##### 7. Vad menas med CSR?
 
 CSR (Corporate Social Responsibility) syftar på företags samhällsansvar att ta ansvar för påverkan på samhället med avseende på dem tre dimensionerna. Nya standarden ISO 26 000 innehåller sju konkreta frågor där företagen kan välja vilka områden de vill fokusera mest på.
@@ -64,7 +81,7 @@ CSR (Corporate Social Responsibility) syftar på företags samhällsansvar att t
 
 ###### Vilka miljö/hälsoproblem är luftföroreningarna förknippad med?
 
-- NOx: Irriterar ögon och slemhinnor. Försurning, övergödning och marknära ozon.
+- NOx: Irriterar ögon och slemhinnor. Försurning, övergödning, smog, och marknära (troposfäriskt) ozon.
 
 - SOx: Försurning av mark och sjöar.
 
@@ -88,7 +105,6 @@ Bildas med förorenad luft pga utsläpp under inverkan av solljus. Blandning av 
 
 Påverkan på hälsan som nedsatt lungfunktion hos asmatiker och ökad dödlighet. I naturen så minskar ozon växters möjlighet att ta upp koldioxid vilket påverkar djurliv, jordbruk och bidrar således negativt till växthuseffekten.
 
-
 ###### Vilka föroreningar bidrar till övergödning? Varför är övergödning ett problem?
 
 Kväveoxider och fosfater anses vara de stora faktorerna som bidrar till övergödning.
@@ -107,15 +123,21 @@ Konsekvenserna av försurning är urlakning av näringsämnen som gör det svår
 
 - NOx: Kväveoxider
 
-
 - Ox: Ozon
 
+- CO2: Koldioxid
 
--
+- H20: Vatten (naturligt förekommande)
 
 ##### Vilken växthusgas i atmosfären är den dominerande med avseende på det totala bidraget till växthuseffekten? 
 
-##### Vad är en CO2-ekvivalent? 
+Vattenånga. I folkmun menar med med växthusgaser sådana som är åsamkade av människan, men enligt strikt definition ingår även vattenånga.
+
+##### Vad är en CO2-ekvivalent?
+
+Ett mått för att jämföra olika sorters utsläpp av växthusgaser, baserat på deras effekt för global uppvärmning. CO2 har CO2-ekvivalent 1.
+
+Exempel: CO2-eq för metan över 100 år är 21. Det betyder att ett ton metan är ekvivalent med 21 ton koldioxid.
 
 ##### Hur fungerar växthuseffekten (växthusgaser, strålning....)?
 
@@ -137,10 +159,74 @@ Konsekvenserna av försurning är urlakning av näringsämnen som gör det svår
 
 ### Resurser och mineraler
 
+#### Vad är skillnaderna mellan (1-3) och vad innebär det med avseende på hållbar utveckling?
+
+    1. lager
+    2. fond
+    3. flödesresurser
+
+#### Ge exempel på miljöpåverkan vid utvinning av mineraler.
+
+#### Var i världen produceras sällsynta jordartsmineraler idag (till ca 90%)?
+
+#### Vad betyder begreppet konfliktmineraler? Nämn tre st. Är det tillåtet att använda konfliktmineraler i Sverige idag?
+
+#### Ge exempel på övergripande strategier för att minska användningen av naturresurser och miljöåverkan kopplade till användningen av resurser.
+
 ### Energi
+
+#### Vilka är de främsta miljöproblemen kopplade till användningen av fossila bränslen? Hur ser skillnaderna ut mellan olika fossila bränslen?
+
+#### Kärnkraft och förnybara energislag är också förenade med miljöpåverkan. Vilka är de främsta miljö/hållbarhetsproblemen ur ett livscykelperspektiv för:
+
+##### kärnkraft
+
+##### bioenergi
+
+##### vattenkraft
+
+##### solceller
+
+#### Ange 4 principiellt olika strategier för att minska energisystemens klimatpåverkan.
+
+#### Vilka fyra energislag dominerar Sveriges energiförsörjning idag?
+
+#### Fossila bränslen används framför allt i en sektor i Sverige, vilken?
+
+#### När andelen sol- och vindkraft ökar i elsystemet krävs ofta olika systemlösningar för ökad flexibilitet. Varför då? Ge exempel på någon systemlösning som ökar flexibiliteten.
 
 ### Avfall
 
+#### Hur mycket hushållsavfall producerar Sverige per person per år?
+
+#### Vilka är de vanligaste behandlingsmetoderna i Sverige och vad innebär de i grova drag?
+
+#### Förklara de olika stegen i EU:s avfallshierarki (avfallstrappa) och logiken bakom hierarkin.
+
+#### Vad innebär producentansvar och hur fungerar det inom elektronikindustrin i Sverige?
+
+#### Vad regleras av EU-direktiven RoHS, WEEE, och REACH?
+
 ### Företagens miljöarbete/miljöverktyg
 
+#### Ge ett exempel på miljöverktyg som är anpassat för enskilda produkter/processer respektive ett som är anpassat för verksamheter.
+
+#### Till vad kan man använda en livscykelanalys (LCA)? Nämn 5 olika syften.
+
+#### Vad är en funktionell enhet och varför behöver man en sådan i en LCA?
+
+#### Miljöarbetet har präglats av olika strategier genom historien. Vad menas med utspädningsfilosofin och filterfilosofin? Exempel?
+
+#### Vad präglar miljöanpassad produktutveckling (eko-design)?
+
 ### Miljöpolitik och styrmedel
+
+#### Vad är syftet med styrmedel inom  miljöområdet?
+
+#### I miljöbalken finns ett antal allmänna hänsynsregler. Nämn och förklara kort två av dessa.
+
+#### Styrmedel brukar kategoriseras som administrativa, ekonomiska och informativa styrmedel.
+
+##### Vad innebär respektive kategori?
+
+##### Ge exempel på konkreta styrmedel för respektiva kategori inom området miljö/energi/avfall.
