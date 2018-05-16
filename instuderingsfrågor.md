@@ -153,19 +153,44 @@ Exempel: CO2-eq för metan över 100 år är 21. Det betyder att ett ton metan �
 
 ### Miljögifter
 
-##### Vilka egenskaper karaktäriserar ett miljögift?
+#### Vilka egenskaper karaktäriserar ett miljögift?
 
-##### Vilka miljögifter finns oftast i vardagselektronik och vilka problem kan de orsaka?Ge exempel på både organiska miljögifter och toxiskta metaller. 
+- Svår att bryta ned (lång halveringstid).
+- Bioackumulering: upptag sker snabbare än exkretion.
+- Giftigt för organismer.
+
+#### Vilka miljögifter finns oftast i vardagselektronik och vilka problem kan de orsaka?Ge exempel på både organiska miljögifter och toxiska metaller. 
+
+##### Organiska miljögifter
+
+
+##### Toxiska metalller
+
+- Arsenik (ljusdioder)
+- Barium (CRT-skärmar)
+- Berylium (kretskort)
+- Kadmium (batterier, CRT-skärmar, skrivare)
+- Krom (disketter)
+- Bly (CRT-skärmar, batterier, kretskort)
+- Litium (batterier)
+- Kvicksilver (LCD, switchar)
+- Nickel (batterier, CRT-skärmar)
+- Zink, Yttrium, Europium (CRT-skärmar)
 
 ### Resurser och mineraler
 
 #### Vad är skillnaderna mellan (1-3) och vad innebär det med avseende på hållbar utveckling?
 
-    1. lager
-    2. fond
-    3. flödesresurser
+    1. Lagerresurser: sådana som inte nybildas utan finns "på lager". Exempel är metaller, kol, olja.
+    2. Fondresurser: sådana som finns på lager, men som också kan nyskapas/fyllas på. Exempel är växter, djur, grundvatten.
+    3. Flödesresurser: sådana som finns tillgängliga i stora flöden utan att lagras. Exmepel är energi från sol, vind, och vatten.
+
+Flödesresurser och lagerresurser är motsatser, medan fondresurser är en blandning. Flödesresurser är naturvänliga, medan lagerresurser inte är det.
 
 #### Ge exempel på miljöpåverkan vid utvinning av mineraler.
+
+- Luftföroreningar pga förbränning av kol.
+- Vattenförorening pga läckage av ex. arsenik, svavelsyra, och kvicksilver.
 
 #### Var i världen produceras sällsynta jordartsmineraler idag (till ca 90%)?
 
