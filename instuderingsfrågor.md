@@ -131,7 +131,7 @@ Konsekvenserna av försurning är urlakning av näringsämnen som gör det svår
 
 ##### Vilken växthusgas i atmosfären är den dominerande med avseende på det totala bidraget till växthuseffekten? 
 
-Vattenånga. I folkmun menar med med växthusgaser sådana som är åsamkade av människan, men enligt strikt definition ingår även vattenånga.
+Vattenånga. I folkmun menar man med växthusgaser sådana som är åsamkade av människan, men enligt strikt definition ingår även vattenånga.
 
 ##### Vad är en CO2-ekvivalent?
 
