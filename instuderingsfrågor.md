@@ -199,13 +199,50 @@ Exempel: CO2-eq för metan över 100 år är 21. Det betyder att ett ton metan �
 
 #### Hur mycket hushållsavfall producerar Sverige per person per år?
 
+- 2015: 478 kg/pers/år
+- 2016: 467 kg/pers/år
+
 #### Vilka är de vanligaste behandlingsmetoderna i Sverige och vad innebär de i grova drag?
 
 #### Förklara de olika stegen i EU:s avfallshierarki (avfallstrappa) och logiken bakom hierarkin.
 
+- Undvik att avfall uppstår
+- Återanvändning
+- Återvinning
+- Energiåtervinning
+- Deponering
+
 #### Vad innebär producentansvar och hur fungerar det inom elektronikindustrin i Sverige?
 
+Den som har ansvar för en produkt ska betala skadestånd för skador åsamkade av produkten som beror på en säkerhetsbrist i produkten.
+
 #### Vad regleras av EU-direktiven RoHS, WEEE, och REACH?
+
+TLDR: Tillverkning/försäljning av elektronik
+
+##### RoHS: Restriction of Hazardous Substances Directive
+
+Direktiv som begränsar användningen av sex farliga material vid tillverkning av elektronik.
+
+Materialen är bl.a:
+- Bly
+- Kvicksilver
+- Kadmium
+
+Företagen som tillhandahåller elektronik ska se till att de inte innehåller en större mängd farliga ämnen än de gränsvärden som anges i RoHS.
+
+##### WEE: Waste Electrical and Electronic Equipment Directive
+
+Direktivet sätter insamlings- och återvinningsmål för alla typer av elektroniska varor. Ställer krav på elektroniktillverkare.
+
+- Syfte: undvika att farliga ämnen hamnar på fel ställe.
+- Tillverkare/importörer har ansvar för insamling och omhändertagande.
+- De ska stå för insamling och för återvinningskostnader.
+- Producenter ska tillverka mer miljövänliga produkter genom att ersätta farliga ämnen och genom att sälja produkter som är enklare att återvinna/återanvända.
+
+
+#### REACH
+
 
 ### Företagens miljöarbete/miljöverktyg
 
