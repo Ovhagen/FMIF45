@@ -3,7 +3,7 @@
 ### Hållbar utveckling
 ##### 1. Hur definieras hållbar utveckling? Använd den ungefärliga standarddefinitionen som den är framlagd av bl.a Brundtland-kommissionen?
 Brundtland-definitionen från 1987 ges nedan:
->En hållbar utveckling tillfredsställer dagens behov utan att äventyra kommande generationers möjligheter att tillfredsställa sina behov.  
+>En hållbar utveckling tillfredsställer dagens behov utan att äventyra kommande generationers möjligheter att tillfredsställa sina behov.
 
 Hållbar utveckling är ett normativt begrepp som säger vad vi borde göra. Begreppet kan därför ändras utefter samhällets förväntningar & uppfattningar.
 
@@ -31,15 +31,19 @@ Exempel på dessa tre dimensioner i kontext av en mobiltelefontillverkare skulle
 
 I miljösammanhang är decoupling att bryta sambandet mellan ökad inkomst och resursanvändning. Då vi har begränsade resurser vill vi minska resursanvändningen men behålla stigande inkomster allt eftersom bärkraften (tillgängliga resurser) minskar över tid. Således måste konsumptionsmönster förändras och fokus bör ligga på att bevara resurser. 
 
-![N|Solid](https://cdn1.imggmi.com/uploads/2018/5/2/aa041c29a495517813b01caf24d8445f-full.png) 
+![N|Solid](https://cdn1.imggmi.com/uploads/2018/5/2/aa041c29a495517813b01caf24d8445f-full.png)
 
 ##### 4. Förklara begreppen dematerialisering och transmaterialisering.
 
-Dematerialisering innebär att minska mängden material som används för att till exempel tillverka en produkt men fortfarande behålla dess funktionalitet.
+Dematerialisering innebär att minska mängden material som används för att till
+exempel tillverka en produkt men fortfarande behålla dess funktionalitet.
 
-Transmaterialisering ("bortom materialet") är att åstadkomma samma nytta med en produkt/tjänst medans man minskar förburkningen av farliga/sällsynta ämnen eller helt byter tillverkningsmetod för att eliminerar materialanvändningen helt.
+Transmaterialisering ("bortom materialet") är att åstadkomma samma nytta med en
+produkt/tjänst medans man minskar förburkningen av farliga/sällsynta ämnen
+eller helt byter tillverkningsmetod för att eliminerar materialanvändningen helt.
 
-Båda dessa begrepp är centrala i att minska resursanvändningen över tid och lyckas med decoupling.
+Båda dessa begrepp är centrala i att minska resursanvändningen över tid och
+lyckas med decoupling.
 
 ##### 5. Hur många miljökvalitetsmål har Sverige?
 
@@ -55,13 +59,18 @@ Målen omfattar t.ex:
 
 ##### 6. Vad är Agenda 21?
 
-Agenda 21 är ett handlingsprogram antaget vid FN:s miljökonferens i Rio 1992. Dokumentet inehåller 1400 paragrafer på 40 kapitel om hur medborgare och lokala myndigheter kan sammarbeta för att motverka natur- och miljöförstöring, fattigdom och hur bristande demokrati skall utvecklas för att våra samhällen skall få en hållbar utveckling.
+Agenda 21 är ett handlingsprogram antaget vid FN:s miljökonferens i Rio 1992.
+Dokumentet inehåller 1400 paragrafer på 40 kapitel om hur medborgare och lokala
+myndigheter kan sammarbeta för att motverka natur- och miljöförstöring, fattigdom och hur bristande demokrati skall utvecklas för att våra samhällen skall få en hållbar utveckling.
 
 Programmet är ej juridiskt bindande utan omfattar rekommendationer.
 
 ##### 7. Vad menas med CSR?
 
-CSR (Corporate Social Responsibility) syftar på företags samhällsansvar att ta ansvar för påverkan på samhället med avseende på dem tre dimensionerna. Nya standarden ISO 26 000 innehåller sju konkreta frågor där företagen kan välja vilka områden de vill fokusera mest på.
+CSR (Corporate Social Responsibility) syftar på företags samhällsansvar att ta 
+ansvar för påverkan på samhället med avseende på dem tre dimensionerna.
+Nya standarden ISO 26 000 innehåller sju konkreta frågor där företagen kan
+välja vilka områden de vill fokusera mest på.
 
 ![N|Solid](https://cdn1.imggmi.com/uploads/2018/5/2/feff49351455f0c363ed6d78a59eda83-full.png)
 
@@ -73,11 +82,14 @@ CSR (Corporate Social Responsibility) syftar på företags samhällsansvar att t
 
 - NOx (Kväveoxider): Trafik, sjöfart. Energi- och transportsektorn samt industri.
 
-- SOx (Svavel): Förbränning av fossila bränslen som innehåller svavel. Olje- och kolförbränning i internationell sjöfart samt industri.
+- SOx (Svavel): Förbränning av fossila bränslen som innehåller svavel. Olje- och
+kolförbränning i internationell sjöfart samt industri.
 
-- Partiklar (PAH, tungmetaller som kvicksilver/bly): Transportsektorn (däck och förbränning). Industri/produktion.
+- Partiklar (PAH, tungmetaller som kvicksilver/bly): Transportsektorn (däck och 
+förbränning). Industri/produktion.
 
-- VOC (Bensen och PAH m.fl.): Bildas vid ofullständig förbränning och lösningsmedel som dunstar. Lösningsmedel vid målning, tändvätska och eldning.
+- VOC (Bensen och PAH m.fl.): Bildas vid ofullständig förbränning och lösningsme
+del som dunstar. Lösningsmedel vid målning, tändvätska och eldning.
 
 ###### Vilka miljö/hälsoproblem är luftföroreningarna förknippad med?
 
@@ -91,7 +103,8 @@ CSR (Corporate Social Responsibility) syftar på företags samhällsansvar att t
 
 ###### Hur ser föroreningarnas utsläppstrender ut i grova drag i Sverige?
 
-- NOx: En drastisk minskning har skett över tid. Dock har utsläpp från personbilar minskat men har nyligen öka svagt på senare år (dieselfordon är boven).
+- NOx: En drastisk minskning har skett över tid. Dock har utsläpp från personbil
+ar minskat men har nyligen öka svagt på senare år (dieselfordon är boven).
 
 - SOx: Kraftig minskning. Ca 75% sen 1990.
 
@@ -159,7 +172,7 @@ Exempel: CO2-eq för metan över 100 år är 21. Det betyder att ett ton metan �
 - Bioackumulering: upptag sker snabbare än exkretion.
 - Giftigt för organismer.
 
-#### Vilka miljögifter finns oftast i vardagselektronik och vilka problem kan de orsaka?Ge exempel på både organiska miljögifter och toxiska metaller. 
+#### Vilka miljögifter finns oftast i vardagselektronik och vilka problem kan de orsaka? Ge exempel på både organiska miljögifter och toxiska metaller.
 
 ##### Organiska miljögifter
 
@@ -181,9 +194,9 @@ Exempel: CO2-eq för metan över 100 år är 21. Det betyder att ett ton metan �
 
 #### Vad är skillnaderna mellan (1-3) och vad innebär det med avseende på hållbar utveckling?
 
-    1. Lagerresurser: sådana som inte nybildas utan finns "på lager". Exempel är metaller, kol, olja.
-    2. Fondresurser: sådana som finns på lager, men som också kan nyskapas/fyllas på. Exempel är växter, djur, grundvatten.
-    3. Flödesresurser: sådana som finns tillgängliga i stora flöden utan att lagras. Exmepel är energi från sol, vind, och vatten.
+   - 1. Lagerresurser: sådana som inte nybildas utan finns "på lager". Exempel är metaller, kol, olja.
+   - 2. Fondresurser: sådana som finns på lager, men som också kan nyskapas/fyllas på. Exempel är växter, djur, grundvatten.
+   - 3. Flödesresurser: sådana som finns tillgängliga i stora flöden utan att lagras. Exempel är energi från sol, vind, och vatten.
 
 Flödesresurser och lagerresurser är motsatser, medan fondresurser är en blandning. Flödesresurser är naturvänliga, medan lagerresurser inte är det.
 
@@ -192,9 +205,19 @@ Flödesresurser och lagerresurser är motsatser, medan fondresurser är en bland
 - Luftföroreningar pga förbränning av kol.
 - Vattenförorening pga läckage av ex. arsenik, svavelsyra, och kvicksilver.
 
-#### Var i världen produceras sällsynta jordartsmineraler idag (till ca 90%)?
+#### Var i världen produceras sällsynta jordartsmineraler idag?
+
+- Kina utvinner >80% av globala REE (Rare Earth Minerals).
+- Trots att Kina utvinner mest i världen, står Kinas reserver endast för 37% av
+jordens totala.
 
 #### Vad betyder begreppet konfliktmineraler? Nämn tre st. Är det tillåtet att använda konfliktmineraler i Sverige idag?
+
+Konfliktresurser är råvaror (i detta fall mineraler) som utvinns i ett konfliktområde och vars försäljning finansierar fortsatta strider eller möjliggör inskränkningar av mänskliga rättigheter.
+
+Vanliga konfliktmineraler är kassiterit, volframit, coltan, och guldmalm.
+
+Regler för spårbarhet finns i USA sedan 2010, men införs i EU först 2021.
 
 #### Ge exempel på övergripande strategier för att minska användningen av naturresurser och miljöåverkan kopplade till användningen av resurser.
 
@@ -202,23 +225,56 @@ Flödesresurser och lagerresurser är motsatser, medan fondresurser är en bland
 
 #### Vilka är de främsta miljöproblemen kopplade till användningen av fossila bränslen? Hur ser skillnaderna ut mellan olika fossila bränslen?
 
+- Utvinning leder till oljespill och förorening av grundvatten (fracking).
+- Förbränning leder till utsläpp av CO2, NOx, partiklar, och tungmetaller (luftkvalitet, klimat).
+
 #### Kärnkraft och förnybara energislag är också förenade med miljöpåverkan. Vilka är de främsta miljö/hållbarhetsproblemen ur ett livscykelperspektiv för:
 
-##### kärnkraft
+##### Sol, vind & vatten
+- Inga lokala utsläpp vid anläggningen
+- Material (sällsynta metaller)
+- Visuella landskapseffekter (vindkraft)
+- Effekter på biologisk mångfald (vattenkraft)
 
-##### bioenergi
+##### Bioenergi
+- Inga nettoutsläpp av CO2
+- Förbränning: partiklar, NOx (luftkvalitet, försurning)
+- Effekter på biologisk mångfald
 
-##### vattenkraft
+##### Kärnkraft
 
-##### solceller
+- Avfallet är radioaktivt
+- Kärnvapen(??)
+- Strålningssäkerhet
 
 #### Ange 4 principiellt olika strategier för att minska energisystemens klimatpåverkan.
 
+- 1. Minska energianvändningen
+- 2. Ersätt fossila bränslen med förnybar energi
+- 3. Ersätt fossila bränslen med kärnkraft
+- 4. Använd fossila bränslen men med avancerad rening (CO2-avskiljning, lagring) (CCS)
+
 #### Vilka fyra energislag dominerar Sveriges energiförsörjning idag?
+
+- Biobränslen
+- Råolja & oljeprodukter (kraftig minskning sedan 1970)
+- Kärnbränsle
+- Vattenkraft
 
 #### Fossila bränslen används framför allt i en sektor i Sverige, vilken?
 
+Transportsektorn.
+
 #### När andelen sol- och vindkraft ökar i elsystemet krävs ofta olika systemlösningar för ökad flexibilitet. Varför då? Ge exempel på någon systemlösning som ökar flexibiliteten.
+
+Elsystem i balans: produktion = konsumtion
+
+Vid traditionell energiproduktion finns en planerbar effekt: det går att förutse hur mycket som utvinns från olja eller från kärnkraft. Med förnybara energikällor är produktionen variabel eftersom det beror på väder - elsystemen behöver således vara flexibla så att de kan hantera lite produktion vid ett tillfälle och mycket vid ett annat.
+
+Lösningar för ökad flexibilitet:
+- Energilagring (lagra produktionsöverskott)
+- Flexibel efterfrågan (t.ex. smarta termostater)
+- Geografisk utvidgning av elsystemet
 
 ### Avfall
 
@@ -229,17 +285,23 @@ Flödesresurser och lagerresurser är motsatser, medan fondresurser är en bland
 
 #### Vilka är de vanligaste behandlingsmetoderna i Sverige och vad innebär de i grova drag?
 
+(Antar att detta gäller styrmedel)
+
+- Avfallsskatt för deponering och förbränning: främjar bättre metoder såsom återanvändning och återvinning
+- Förbud mot deponering av utsorterat brännbart: om det går att bränna skall det deponeras
+- Producentansvar: returinsamlingssytem krävs inom branschen. Motiverar producenter att ta fram produkter som är resurssnåla, lätta att återvinna, och som inte innehåller miljöfarliga ämnen.
+
 #### Förklara de olika stegen i EU:s avfallshierarki (avfallstrappa) och logiken bakom hierarkin.
 
-- Undvik att avfall uppstår
-- Återanvändning
-- Återvinning
-- Energiåtervinning
-- Deponering
+- Undvik att avfall uppstår (Bäst ty inget avfall --> inget problem)
+- Återanvändning (Nästbäst ty fortfarande inget avfall)
+- Återvinning (Använd något som slängts till att skapa något nytt --> i princip inget avfall)
+- Energiåtervinning (Om det inte går att producera någonting nytt av avfallet (ex. hushållssopor), utvinn så mycket energi som går)
+- Deponering (avfallet läggs på en soptipp --> sämsta metoden)
 
 #### Vad innebär producentansvar och hur fungerar det inom elektronikindustrin i Sverige?
 
-Den som har ansvar för en produkt ska betala skadestånd för skador åsamkade av produkten som beror på en säkerhetsbrist i produkten.
+Den som har ansvar för en produkt (producent/importör) ska betala skadestånd för skador åsamkade av produkten som beror på en säkerhetsbrist i produkten.
 
 #### Vad regleras av EU-direktiven RoHS, WEEE, och REACH?
 
@@ -254,24 +316,33 @@ Materialen är bl.a:
 - Kvicksilver
 - Kadmium
 
-Företagen som tillhandahåller elektronik ska se till att de inte innehåller en större mängd farliga ämnen än de gränsvärden som anges i RoHS.
+Företagen som tillhandahåller elektronik ska se till att de inte innehåller en
+större mängd farliga ämnen än de gränsvärden som anges i RoHS.
 
 ##### WEE: Waste Electrical and Electronic Equipment Directive
 
-Direktivet sätter insamlings- och återvinningsmål för alla typer av elektroniska varor. Ställer krav på elektroniktillverkare.
+Direktivet sätter insamlings- och återvinningsmål för alla typer av
+elektroniska varor. Ställer krav på elektroniktillverkare.
 
 - Syfte: undvika att farliga ämnen hamnar på fel ställe.
 - Tillverkare/importörer har ansvar för insamling och omhändertagande.
 - De ska stå för insamling och för återvinningskostnader.
-- Producenter ska tillverka mer miljövänliga produkter genom att ersätta farliga ämnen och genom att sälja produkter som är enklare att återvinna/återanvända.
+- Producenter ska tillverka mer miljövänliga produkter genom att ersätta
+farliga ämnen och genom att sälja produkter som är enklare att återvinna/återanvända.
 
 
 #### REACH
 
+- EU-lag som ämnar att skydda miljö och människa från kemikalier.
+- Gäller alla kemiska substanser, t.ex. rengöringsprodukter och färg.
+- Lägger bevisbördan på företag. För att uppfylla lagen måste företag identifiera och hantera de risker som relaterar till de substanser som företag producerar eller marknadsför i EU.
 
 ### Företagens miljöarbete/miljöverktyg
 
 #### Ge ett exempel på miljöverktyg som är anpassat för enskilda produkter/processer respektive ett som är anpassat för verksamheter.
+
+- Livscykelanalys används för att analysera produkter/processer.
+- Miljöledningssystem används för att analysera verksamheter.
 
 #### Till vad kan man använda en livscykelanalys (LCA)? Nämn 5 olika syften.
 
@@ -279,16 +350,76 @@ Direktivet sätter insamlings- och återvinningsmål för alla typer av elektron
 
 #### Miljöarbetet har präglats av olika strategier genom historien. Vad menas med utspädningsfilosofin och filterfilosofin? Exempel?
 
+> Utspädningsfilosofi är ett gammaldags tankesätt kring rening av vätskor som går ut på att det räcker med att späda tillräckligt mycket för att rena vätskan. Tankesättet som var populärt inpå 1970-talet har inneburit stora påfrestningar på miljön.
+(https://sv.wikipedia.org/wiki/Utsp%C3%A4dningsfilosofi)
+
 #### Vad präglar miljöanpassad produktutveckling (eko-design)?
+
+Energieffektivisering.
 
 ### Miljöpolitik och styrmedel
 
 #### Vad är syftet med styrmedel inom  miljöområdet?
 
+- Syftet med styrmedel är att styra samhällsutvecklingen så att de miljömål som finns kan uppfyllas.
+- Kan vara i form av subventioner, skatter/avgifter, eller regleringar. Kan även vara informativa såsom miljömärkningar.
+
 #### I miljöbalken finns ett antal allmänna hänsynsregler. Nämn och förklara kort två av dessa.
+
+Alla (företag?) ska:
+
+- skaffa sig nödvändig kunskap
+- genomföra nödvändiga skyddsåtgärder och vidta försiktighetsmått
+- undvika (om det går) att använda eller sälja kemiska produkter eller biotekniska organismer som kan befaras att riskera människors hälsa eller miljön
+- hushålla med råvaror och energi, minska avfall, minska skadliga ämnen etc.
 
 #### Styrmedel brukar kategoriseras som administrativa, ekonomiska och informativa styrmedel.
 
 ##### Vad innebär respektive kategori?
 
+##### Administrativa styrmedel
+
+Regleringar. Exempel:
+
+- Miljöbalkens almmänna hänsynsregler
+- Förbud
+- Individuell tillståndsprövning
+- Produktkrav
+- Planeringskrav
+
+Fördelar:
+
+- Kan ge företag lägre kostnader jämfört med ett ekonomiskt styrmedel.
+- Kan vara lämpligt för att hantera lokala/regionala miljöeffekter där det är svårt att hitta en rimlig prisbildningsmekanism.
+
+##### Ekonomiska styrmedel
+
+- Skatter & avgifter (koldioxidskatt, flygskatt, pant, fordonsskatt)
+- Subventioner (miljöbilar)
+- Värdepapper (utsläppsrätter, elcertifikat)
+
+Fördelar:
+- uppfattas politiskt positivt
+- kan vara lösning för att få igång nischmarknader
+- kan stimulera aktiviteter som ger spin-off
+- ger ekonomiska incitament att bete sig i linje med målen
+- beslut om utsläppsminskningar delegeras till den som bäst känner till möjlighterna för utsläppsminskningar.
+
+Kritik:
+- industrins konkurrenskraft
+- effekt och träffsäkerhet ibland ifrågasatt
+- fördelningsaspekter (?)
+- dyrt för staten
+- risk för "felaktiga" satsningar
+
+##### Informativa styrmedel
+
+Försöker styra samhällsopinion så att den är i linje med miljömålen.
+
+- syftar till att skapa delaktighet samt bidra till att miljömålen uppfylls
+- fungerar som verktyg för att skapa acceptans vid införande av andra styrmedel
+- ett valfritt styrmedel (ex. miljömärkning, KRAV-märkning) - ger konsumenten valet
+
 ##### Ge exempel på konkreta styrmedel för respektiva kategori inom området miljö/energi/avfall.
+
+Se ovan.
