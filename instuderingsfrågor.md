@@ -134,13 +134,13 @@ Konsekvenserna av försurning är urlakning av näringsämnen som gör det svår
 
 ##### Nämn 3 växt husgaser som bidrar till global uppvärmning samt deras primära källor. Vilken växthusgas bidrar mest till den globala uppvärmningen?
 
-- NOx: Kväveoxider
+- NOx: Kväveoxider Källa:
 
-- Ox: Ozon
+- Ox: Ozon Källa:
 
-- CO2: Koldioxid
+- CO2: Koldioxid Källa:
 
-- H20: Vatten (naturligt förekommande)
+- H20: Vatten (naturligt förekommande) Källa: 
 
 ##### Vilken växthusgas i atmosfären är den dominerande med avseende på det totala bidraget till växthuseffekten? 
 
@@ -153,8 +153,10 @@ Ett mått för att jämföra olika sorters utsläpp av växthusgaser, baserat p�
 Exempel: CO2-eq för metan över 100 år är 21. Det betyder att ett ton metan är ekvivalent med 21 ton koldioxid.
 
 ##### Hur fungerar växthuseffekten (växthusgaser, strålning....)?
+Växthuseffekten sker genom att växthusgaser släpps ut i atmosfären och lägger sig som ett lager. Då inkommande strålning från solen når jorden går en majoritet av strålningsljuset genom atmosfären och absorberas av jorden. Naturligt så reflekteras även ljuset,främst glaciärer, men även hav och mark till en viss nivå. När strålningen försöker tränga ut ur jordens atmosfär har nu växthusgaserna en reflekterande effekt. Vilket betyder att ljuset fångas mellan atmosfären och jordytan som nu återigen absorberar strålningen. Detta leder till en uppvärmande effekt och till slut nås en ny jämviktstemperatur globalt.
 
 ##### Vad menas med naturlig respektive förstärkt växthuseffekt?
+Den naturliga effekten
 
 ##### Vilka konsekvenser förväntas den globala uppvärmningen få på de naturliga systemen?
 
