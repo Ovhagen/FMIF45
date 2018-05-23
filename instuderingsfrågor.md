@@ -134,13 +134,13 @@ Konsekvenserna av försurning är urlakning av näringsämnen som gör det svår
 
 ##### Nämn 3 växt husgaser som bidrar till global uppvärmning samt deras primära källor. Vilken växthusgas bidrar mest till den globala uppvärmningen?
 
-- NOx: Kväveoxider Källa:
+- NOx: Kväveoxider Källa: Förbränning vid hög temperatur i förbränningsmotorer, diesel. Industri.
 
-- Ox: Ozon Källa:
+- CH4: Metan Källa: Skapas av bakterier som livnär sig på organiska material där syrebrist råder. Brytning, förbränning av fossila bränslen, boskapsgödsel (kor) och soptippar.
 
-- CO2: Koldioxid Källa:
+- CO2: Koldioxid Källa: Förbränning av fossila bränslen, avskogning. (ca 60% av växthuseffekten)
 
-- H20: Vatten (naturligt förekommande) Källa: 
+- H20: Vatten (naturligt förekommande) Källa: Förekommer naturligt i luften, tar upp och utstrålar värme. Varmare luft håller mer fukt så en ökning i temperatur ökar mängden vatten i luften.
 
 ##### Vilken växthusgas i atmosfären är den dominerande med avseende på det totala bidraget till växthuseffekten? 
 
@@ -153,18 +153,29 @@ Ett mått för att jämföra olika sorters utsläpp av växthusgaser, baserat p�
 Exempel: CO2-eq för metan över 100 år är 21. Det betyder att ett ton metan är ekvivalent med 21 ton koldioxid.
 
 ##### Hur fungerar växthuseffekten (växthusgaser, strålning....)?
-Växthuseffekten sker genom att växthusgaser släpps ut i atmosfären och lägger sig som ett lager. Då inkommande strålning från solen når jorden går en majoritet av strålningsljuset genom atmosfären och absorberas av jorden. Naturligt så reflekteras även ljuset, främst av glaciärer, men även hav och mark till en viss nivå. När strålningen försöker tränga ut ur jordens atmosfär har nu växthusgaserna en reflekterande effekt. Vilket betyder att ljuset fångas mellan atmosfären och jordytan som nu återigen absorberar strålningen. Detta leder till en uppvärmande effekt och till slut nås en ny jämviktstemperatur globalt.
+Växthuseffekten sker genom att växthusgaser släpps ut i atmosfären (antingen naturligt eller i överflöd av människan) och befinner sig i jordens atmosfären. Då inkommande strålning från solen når jorden går en majoritet av strålningsljuset genom atmosfären och absorberas av jordytan. Jorden avger sedan värmestrålning som försöker exitera ur jordens atmosfär, men absorberas nu av de växthusgaser som befinner sig i atmosfären. Gaserna återstrålar tillbaka till jordytan igen och denna process fortsätter tills strålningen kan ta sig ut i rymden. Detta leder till en uppvärmande effekt och till slut nås en ny jämviktstemperatur globalt.
 
 ##### Vad menas med naturlig respektive förstärkt växthuseffekt?
-Den naturliga effekten
+Den naturliga växthuseffekten är den effekt som i amosfären gör klimatet behagligt för växter, djur och människor att leva på jorden. Utan den naturliga växthuseffekten hade det varit 35 grader kallare vi jordytan i snitt än vad det är idag.
+
+Den förstärkta växthuseffekten syftar till den globala uppvärmningen som sker idag vilket förklaras i föregående fråga.
 
 ##### Vilka konsekvenser förväntas den globala uppvärmningen få på de naturliga systemen?
+
+- Förstörande av ekosystem som korallrev, öar, arktis.
+- Arter utrotas pga ohållbara förhållanden i deras miljö.
+- Smältande isar vilket höjer den globala vattennivån. Således påverkas ekosystem och bosättningar nära haven.
+- Ytterligare metan som släpps från islossning.
+- Minskat albedo (ljusreflektering från jorden)
 
 ##### Globalt har man satt upp som mål att temperaturen endast bör öka med mellan 1,5 till 2 grader.
 
 ###### Vilken internationell överenskommelse reglerar detta?
 
+Parisavtalet 2015.
+
 ###### Vad innebär målet för världens och Sveriges utsläpp av växthusgaser? Hur snabbt måste de minska (ungefär)?
+Då avtalet skall börja gälla globalt från 2020
 
 ### Miljögifter
 
