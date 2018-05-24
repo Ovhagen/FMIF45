@@ -383,10 +383,10 @@ Energieffektivisering.
 
 #### I miljöbalken finns ett antal allmänna hänsynsregler. Nämn och förklara kort två av dessa.
 
-Alla (företag?) ska:
+Alla verksamheter eller åtgärder som ligger inom miljöbalkens tillämpningsområde ska:
 
-- skaffa sig nödvändig kunskap
-- genomföra nödvändiga skyddsåtgärder och vidta försiktighetsmått
+- skaffa sig nödvändig kunskap om verksamheten och hur det påverkar människan och miljön.
+- genomföra nödvändiga skyddsåtgärder och vidta försiktighetsmått för att minska negativ påverkan på miljö och människor.
 - undvika (om det går) att använda eller sälja kemiska produkter eller biotekniska organismer som kan befaras att riskera människors hälsa eller miljön
 - hushålla med råvaror och energi, minska avfall, minska skadliga ämnen etc.
 
@@ -436,6 +436,10 @@ Försöker styra samhällsopinion så att den är i linje med miljömålen.
 - syftar till att skapa delaktighet samt bidra till att miljömålen uppfylls
 - fungerar som verktyg för att skapa acceptans vid införande av andra styrmedel
 - ett valfritt styrmedel (ex. miljömärkning, KRAV-märkning) - ger konsumenten valet
+
+- Miljömärkning
+- Rådgivning
+- Utbildning
 
 ##### Ge exempel på konkreta styrmedel för respektiva kategori inom området miljö/energi/avfall.
 
