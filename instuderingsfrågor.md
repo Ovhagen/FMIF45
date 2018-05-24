@@ -88,8 +88,7 @@ kolförbränning i internationell sjöfart samt industri.
 - Partiklar (PAH, tungmetaller som kvicksilver/bly): Transportsektorn (däck och 
 förbränning). Industri/produktion.
 
-- VOC (Bensen och PAH m.fl.): Bildas vid ofullständig förbränning och lösningsme
-del som dunstar. Lösningsmedel vid målning, tändvätska och eldning.
+- VOC (Bensen och PAH m.fl.): Bildas vid ofullständig förbränning och lösningsmedel som dunstar. Lösningsmedel vid målning, tändvätska och eldning.
 
 ###### Vilka miljö/hälsoproblem är luftföroreningarna förknippad med?
 
@@ -165,8 +164,9 @@ Den förstärkta växthuseffekten syftar till den globala uppvärmningen som ske
 - Förstörande av ekosystem som korallrev, öar, arktis.
 - Arter utrotas pga ohållbara förhållanden i deras miljö.
 - Smältande isar vilket höjer den globala vattennivån. Således påverkas ekosystem och bosättningar nära haven.
-- Ytterligare metan som släpps från islossning.
-- Minskat albedo (ljusreflektering från jorden)
+- Ytterligare metan som släpps från islossning ger ökad växthuseffekt.
+- Minskat albedo (ljusreflektering från jorden) ger ökad växthuseffekt.
+- Extrema väderförhållanden.
 
 ##### Globalt har man satt upp som mål att temperaturen endast bör öka med mellan 1,5 till 2 grader.
 
@@ -175,20 +175,24 @@ Den förstärkta växthuseffekten syftar till den globala uppvärmningen som ske
 Parisavtalet 2015.
 
 ###### Vad innebär målet för världens och Sveriges utsläpp av växthusgaser? Hur snabbt måste de minska (ungefär)?
-Då avtalet skall börja gälla globalt från 2020
+Då avtalet skall börja följas från och med senast 2020 måste alla delaktiga länder ta aktiv roll och börja göra förändringar.
 
+För sveriges del en minskning med ca 40% av alla utsläpp av växthusgaser jämfört med 1990.
 ### Miljögifter
 
 #### Vilka egenskaper karaktäriserar ett miljögift?
 
 - Svår att bryta ned (lång halveringstid).
-- Bioackumulering: upptag sker snabbare än exkretion.
+- Bioackumulering: upptag sker snabbare än exkretion. Delvis substansen ansamlar giftiga ämnen i dess celler mer än den frigör sina restprodukter.
 - Giftigt för organismer.
 
 #### Vilka miljögifter finns oftast i vardagselektronik och vilka problem kan de orsaka? Ge exempel på både organiska miljögifter och toxiska metaller.
 
 ##### Organiska miljögifter
+Skapas främst från kemiska ämnen som skapats av människan.
 
+- PCB (Isolering i kablar och vajrar): Blåsor som lämnar djupa ärr på huden, leverskador och cancerframkallande. Påverkar foster, psykiska skador.
+- TBBA/PBDE (Flamskyddsmedel i plaster): Samma problem som PCB.
 
 ##### Toxiska metalller
 
@@ -199,8 +203,8 @@ Då avtalet skall börja gälla globalt från 2020
 - Krom (disketter)
 - Bly (CRT-skärmar, batterier, kretskort)
 - Litium (batterier)
-- Kvicksilver (LCD, switchar)
-- Nickel (batterier, CRT-skärmar)
+- Kvicksilver (LCD, switchar): Omvandlas till extremt giftiga förening metylkvicksilver som sprids och utsöndras i vävnaden hos djur. För människor, skador på hjärnan coch centrala nervsystemet.
+- Nickel (batterier, CRT-skärmar): Cancer- och allergiframkallande.
 - Zink, Yttrium, Europium (CRT-skärmar)
 
 ### Resurser och mineraler
