@@ -88,8 +88,7 @@ kolförbränning i internationell sjöfart samt industri.
 - Partiklar (PAH, tungmetaller som kvicksilver/bly): Transportsektorn (däck och 
 förbränning). Industri/produktion.
 
-- VOC (Bensen och PAH m.fl.): Bildas vid ofullständig förbränning och lösningsme
-del som dunstar. Lösningsmedel vid målning, tändvätska och eldning.
+- VOC (Bensen och PAH m.fl.): Bildas vid ofullständig förbränning och lösningsmedel som dunstar. Lösningsmedel vid målning, tändvätska och eldning.
 
 ###### Vilka miljö/hälsoproblem är luftföroreningarna förknippad med?
 
@@ -134,13 +133,13 @@ Konsekvenserna av försurning är urlakning av näringsämnen som gör det svår
 
 ##### Nämn 3 växt husgaser som bidrar till global uppvärmning samt deras primära källor. Vilken växthusgas bidrar mest till den globala uppvärmningen?
 
-- NOx: Kväveoxider
+- NOx: Kväveoxider Källa: Förbränning vid hög temperatur i förbränningsmotorer, diesel. Industri.
 
-- Ox: Ozon
+- CH4: Metan Källa: Skapas av bakterier som livnär sig på organiska material där syrebrist råder. Brytning, förbränning av fossila bränslen, boskapsgödsel (kor) och soptippar.
 
-- CO2: Koldioxid
+- CO2: Koldioxid Källa: Förbränning av fossila bränslen, avskogning. (ca 60% av växthuseffekten)
 
-- H20: Vatten (naturligt förekommande)
+- H20: Vatten (naturligt förekommande) Källa: Förekommer naturligt i luften, tar upp och utstrålar värme. Varmare luft håller mer fukt så en ökning i temperatur ökar mängden vatten i luften.
 
 ##### Vilken växthusgas i atmosfären är den dominerande med avseende på det totala bidraget till växthuseffekten? 
 
@@ -153,29 +152,47 @@ Ett mått för att jämföra olika sorters utsläpp av växthusgaser, baserat p�
 Exempel: CO2-eq för metan över 100 år är 21. Det betyder att ett ton metan är ekvivalent med 21 ton koldioxid.
 
 ##### Hur fungerar växthuseffekten (växthusgaser, strålning....)?
+Växthuseffekten sker genom att växthusgaser släpps ut i atmosfären (antingen naturligt eller i överflöd av människan) och befinner sig i jordens atmosfären. Då inkommande strålning från solen når jorden går en majoritet av strålningsljuset genom atmosfären och absorberas av jordytan. Jorden avger sedan värmestrålning som försöker exitera ur jordens atmosfär, men absorberas nu av de växthusgaser som befinner sig i atmosfären. Gaserna återstrålar tillbaka till jordytan igen och denna process fortsätter tills strålningen kan ta sig ut i rymden. Detta leder till en uppvärmande effekt och till slut nås en ny jämviktstemperatur globalt.
 
 ##### Vad menas med naturlig respektive förstärkt växthuseffekt?
+Den naturliga växthuseffekten är den effekt som i amosfären gör klimatet behagligt för växter, djur och människor att leva på jorden. Utan den naturliga växthuseffekten hade det varit 35 grader kallare vi jordytan i snitt än vad det är idag.
+
+Den förstärkta växthuseffekten syftar till den globala uppvärmningen som sker idag vilket förklaras i föregående fråga.
 
 ##### Vilka konsekvenser förväntas den globala uppvärmningen få på de naturliga systemen?
+
+- Förstörande av ekosystem som korallrev, öar, arktis.
+- Arter utrotas pga ohållbara förhållanden i deras miljö.
+- Smältande isar vilket höjer den globala vattennivån. Således påverkas ekosystem och bosättningar nära haven.
+- Ytterligare metan som släpps från islossning ger ökad växthuseffekt.
+- Minskat albedo (ljusreflektering från jorden) ger ökad växthuseffekt.
+- Extrema väderförhållanden.
 
 ##### Globalt har man satt upp som mål att temperaturen endast bör öka med mellan 1,5 till 2 grader.
 
 ###### Vilken internationell överenskommelse reglerar detta?
 
-###### Vad innebär målet för världens och Sveriges utsläpp av växthusgaser? Hur snabbt måste de minska (ungefär)?
+Parisavtalet 2015.
 
+###### Vad innebär målet för världens och Sveriges utsläpp av växthusgaser? Hur snabbt måste de minska (ungefär)?
+Då avtalet skall börja följas från och med senast 2020 måste alla delaktiga länder ta aktiv roll och börja göra förändringar.
+
+För sveriges del en minskning med ca 40% av alla utsläpp av växthusgaser jämfört med 1990.
 ### Miljögifter
 
 #### Vilka egenskaper karaktäriserar ett miljögift?
 
 - Svår att bryta ned (lång halveringstid).
-- Bioackumulering: upptag sker snabbare än exkretion.
+- Bioackumulering: upptag sker snabbare än exkretion. Delvis substansen ansamlar giftiga ämnen i dess celler mer än den frigör sina restprodukter.
 - Giftigt för organismer.
 
 #### Vilka miljögifter finns oftast i vardagselektronik och vilka problem kan de orsaka? Ge exempel på både organiska miljögifter och toxiska metaller.
 
 ##### Organiska miljögifter
+Skapas främst från kemiska ämnen som skapats av människan.
 
+- PCB (Isolering i kablar och vajrar): Blåsor som lämnar djupa ärr på huden, leverskador och cancerframkallande. Påverkar foster, psykiska skador.
+- TBBA/PBDE (Flamskyddsmedel i plaster): Samma problem som PCB.
 
 ##### Toxiska metalller
 
@@ -186,8 +203,8 @@ Exempel: CO2-eq för metan över 100 år är 21. Det betyder att ett ton metan �
 - Krom (disketter)
 - Bly (CRT-skärmar, batterier, kretskort)
 - Litium (batterier)
-- Kvicksilver (LCD, switchar)
-- Nickel (batterier, CRT-skärmar)
+- Kvicksilver (LCD, switchar): Omvandlas till extremt giftiga förening metylkvicksilver som sprids och utsöndras i vävnaden hos djur. För människor, skador på hjärnan coch centrala nervsystemet.
+- Nickel (batterier, CRT-skärmar): Cancer- och allergiframkallande.
 - Zink, Yttrium, Europium (CRT-skärmar)
 
 ### Resurser och mineraler
@@ -366,10 +383,10 @@ Energieffektivisering.
 
 #### I miljöbalken finns ett antal allmänna hänsynsregler. Nämn och förklara kort två av dessa.
 
-Alla (företag?) ska:
+Alla verksamheter eller åtgärder som ligger inom miljöbalkens tillämpningsområde ska:
 
-- skaffa sig nödvändig kunskap
-- genomföra nödvändiga skyddsåtgärder och vidta försiktighetsmått
+- skaffa sig nödvändig kunskap om verksamheten och hur det påverkar människan och miljön.
+- genomföra nödvändiga skyddsåtgärder och vidta försiktighetsmått för att minska negativ påverkan på miljö och människor.
 - undvika (om det går) att använda eller sälja kemiska produkter eller biotekniska organismer som kan befaras att riskera människors hälsa eller miljön
 - hushålla med råvaror och energi, minska avfall, minska skadliga ämnen etc.
 
@@ -419,6 +436,10 @@ Försöker styra samhällsopinion så att den är i linje med miljömålen.
 - syftar till att skapa delaktighet samt bidra till att miljömålen uppfylls
 - fungerar som verktyg för att skapa acceptans vid införande av andra styrmedel
 - ett valfritt styrmedel (ex. miljömärkning, KRAV-märkning) - ger konsumenten valet
+
+- Miljömärkning
+- Rådgivning
+- Utbildning
 
 ##### Ge exempel på konkreta styrmedel för respektiva kategori inom området miljö/energi/avfall.
 
