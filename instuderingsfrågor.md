@@ -251,7 +251,7 @@ Regler för spårbarhet finns i USA sedan 2010, men införs i EU först 2021.
 - Inga lokala utsläpp vid anläggningen
 - Material (sällsynta metaller)
 - Visuella landskapseffekter (vindkraft)
-- Effekter på biologisk mångfald (vattenkraft)
+- Effekter på biologisk mångfald (vattenkraft). Stör fiskars vägar bäckar osv.
 
 ##### Bioenergi
 - Inga nettoutsläpp av CO2
@@ -266,7 +266,7 @@ Regler för spårbarhet finns i USA sedan 2010, men införs i EU först 2021.
 
 #### Ange 4 principiellt olika strategier för att minska energisystemens klimatpåverkan.
 
-- 1. Minska energianvändningen
+- 1. Minska energianvändningen genom effektivisering eller livsstilsförändringar.
 - 2. Ersätt fossila bränslen med förnybar energi
 - 3. Ersätt fossila bränslen med kärnkraft
 - 4. Använd fossila bränslen men med avancerad rening (CO2-avskiljning, lagring) (CCS)
@@ -304,6 +304,7 @@ Lösningar för ökad flexibilitet:
 
 (Antar att detta gäller styrmedel)
 
+
 - Avfallsskatt för deponering och förbränning: främjar bättre metoder såsom återanvändning och återvinning
 - Förbud mot deponering av utsorterat brännbart: om det går att bränna skall det deponeras
 - Producentansvar: returinsamlingssytem krävs inom branschen. Motiverar producenter att ta fram produkter som är resurssnåla, lätta att återvinna, och som inte innehåller miljöfarliga ämnen.
@@ -318,7 +319,7 @@ Lösningar för ökad flexibilitet:
 
 #### Vad innebär producentansvar och hur fungerar det inom elektronikindustrin i Sverige?
 
-Den som har ansvar för en produkt (producent/importör) ska betala skadestånd för skador åsamkade av produkten som beror på en säkerhetsbrist i produkten.
+Den som har ansvar för en produkt (producent/importör) har ett ansvar att sama in och ta hand om uttjänta produkter. Syftet är också att motivera producenter att ta fram produkter som är resurssnåla och lättare att återvinna.
 
 #### Vad regleras av EU-direktiven RoHS, WEEE, och REACH?
 
@@ -358,17 +359,27 @@ farliga ämnen och genom att sälja produkter som är enklare att återvinna/åt
 
 #### Ge ett exempel på miljöverktyg som är anpassat för enskilda produkter/processer respektive ett som är anpassat för verksamheter.
 
-- Livscykelanalys används för att analysera produkter/processer.
-- Miljöledningssystem används för att analysera verksamheter.
+- Livscykelanalys används för att analysera produkter/processer. Genom att följa en produkt genom alla produktionsstadier kan man identifiera miljöpåverkan för särskilda processer osv.
+- Miljöledningssystem används för att analysera verksamheter. Man går från att ha en policyer, mål, rutiner, instruktioner, mallar och jounaler rörande miljöoaspekten av verksamheten.
 
 #### Till vad kan man använda en livscykelanalys (LCA)? Nämn 5 olika syften.
 
+- Identifiera miljöpåverkan i enskilda stadier i produktionen av produkten.
+- Testa ny teknik
+- Jämföra produkter eller processer
+- Underlag för nya policyes
+- Miljömärkning & hållbarhetskriterier
+
 #### Vad är en funktionell enhet och varför behöver man en sådan i en LCA?
+
+En funktionell enhet är det som är företagets produktmål för analysen. Ska vara ett bra mått på det som är syftet med verksamheten. T.e.x så om syftet är att producera el så kan det vara att producera en viss mängd el som 1 KWH elenergi och det är sedan grunden för analysenn som görs.
 
 #### Miljöarbetet har präglats av olika strategier genom historien. Vad menas med utspädningsfilosofin och filterfilosofin? Exempel?
 
 > Utspädningsfilosofi är ett gammaldags tankesätt kring rening av vätskor som går ut på att det räcker med att späda tillräckligt mycket för att rena vätskan. Tankesättet som var populärt inpå 1970-talet har inneburit stora påfrestningar på miljön.
 (https://sv.wikipedia.org/wiki/Utsp%C3%A4dningsfilosofi)
+
+>Filterfi
 
 #### Vad präglar miljöanpassad produktutveckling (eko-design)?
 
