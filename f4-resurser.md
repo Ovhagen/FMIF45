@@ -79,3 +79,34 @@ Sjunkade mineralhalt leder till högre utvinningskostnad och större miljöpåve
 
 ### Mark
 
+## Ekologiskt fotavtryck
+
+Ett mått på hur mycket av jordens biologiskt produktiva landyta människan tar i anspråk.
+
+## Sociala aspekter
+
+- Lokalt överflöd, global brist
+    - skapar konflikter (framförallt olja)
+- Konfliktmineraler
+    - mineraler vars utvinning främjar konflikter
+- Lokal brist på fondresurs
+    - Orsaker
+        - Minskad tillgång
+        - Ökad befolkning
+    - Exempel: vatten
+
+## Strategier för hållbar utvinning och process
+
+- Transmaterialisering
+    - byt ut sällsynta / kontroversiella material
+- Dematerialisering
+    - minska mängden material
+- Cirkulär ekonomi
+    - Återvinning
+    - Industriell symbios
+- Bio-ekonomi
+    - biologiskt nedbrytbara produkter
+- Delningsekonomi
+    - ex car pools, klädotek
+- De-growth
+    - Andra mått och värden än BNP
