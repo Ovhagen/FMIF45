@@ -360,7 +360,7 @@ farliga ämnen och genom att sälja produkter som är enklare att återvinna/åt
 #### Ge ett exempel på miljöverktyg som är anpassat för enskilda produkter/processer respektive ett som är anpassat för verksamheter.
 
 - Livscykelanalys används för att analysera produkter/processer. Genom att följa en produkt genom alla produktionsstadier kan man identifiera miljöpåverkan för särskilda processer osv.
-- Miljöledningssystem används för att analysera verksamheter. Man går från att ha en policyer, mål, rutiner, instruktioner, mallar och jounaler rörande miljöoaspekten av verksamheten.
+- Miljöledningssystem används för att analysera verksamheter. Man skapar policyer, mål, rutiner, instruktioner, mallar och jounaler rörande miljöaspekten av verksamheten och uppdaterar dessa allt eftersom.
 
 #### Till vad kan man använda en livscykelanalys (LCA)? Nämn 5 olika syften.
 
@@ -379,7 +379,7 @@ En funktionell enhet är det som är företagets produktmål för analysen. Ska 
 > Utspädningsfilosofi är ett gammaldags tankesätt kring rening av vätskor som går ut på att det räcker med att späda tillräckligt mycket för att rena vätskan. Tankesättet som var populärt inpå 1970-talet har inneburit stora påfrestningar på miljön.
 (https://sv.wikipedia.org/wiki/Utsp%C3%A4dningsfilosofi)
 
->Filterfi
+>Filterfilosofin bytte ut utspädningsfilosofin och fokuserade istället på att minska fabrikernas punktutsläpp. Detta har lett till utveckling av många bra metoder för att rena vatten och luft från föroreningar.
 
 #### Vad präglar miljöanpassad produktutveckling (eko-design)?
 
