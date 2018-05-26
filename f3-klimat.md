@@ -21,13 +21,12 @@
 
 ## Växthusgaser
 
-### Följande är klippt direkt från Lars Nilssons föreläsning
-- Gaser som kan uppnå en asymmetri i sin laddningsfördelning genom att sträckas eller böjas är potentiella växthusgaser
-- Atmosfärens huvudkomponenter är inte växthusgaser
-- De viktigaste växthusgaserna absorberar betydande delar av den utgående strålningen:
-    - vattenånga, koldioxid, metan, lustgas, ozon, klorflourkarboner
-- Växthusgaser är i normalt tal endast de som beror på mänskliga aktiviteter och som absorberar i IR+fönstret (C02, CH4, N2O, O3, CFC)
-- Vattenånga H2O är den i särklass viktigaste växthusgasen
+> - Gaser som kan uppnå en asymmetri i sin laddningsfördelning genom att sträckas eller böjas är potentiella växthusgaser
+> - Atmosfärens huvudkomponenter är inte växthusgaser
+> - De viktigaste växthusgaserna absorberar betydande delar av den utgående strålningen:
+>     - vattenånga, koldioxid, metan, lustgas, ozon, klorflourkarboner
+> - Växthusgaser är i normalt tal endast de som beror på mänskliga aktiviteter och som absorberar i IR+fönstret (C02, CH4, N2O, O3, CFC)
+> - Vattenånga H2O är den i särklass viktigaste växthusgasen
 
 ## Världens energikällor (2008)
 
