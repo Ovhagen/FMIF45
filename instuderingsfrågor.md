@@ -19,7 +19,7 @@ Exempel på dessa tre dimensioner i kontext av en mobiltelefontillverkare skulle
     
     - TLDR: Yttre förhållanden som påverkar allt liv.
 
-- Ekonomisk: Den ekonomiska dimensionen handlar om hur vi hushåller med resurser som är viktiga för att upprätthålla mänsklig välfärd nu och i framtiden. En mobiltillverkare behöver lämpligen se över sin egen resursutvinning och beställningar av material från tredjepartsföretag. Om ändliga resurser brukas för tillverkning av komponenter är det av intresse för framtida tillverkning att minska användningen av detta materialet om inte utesluta det helt och hållet. Även återvinning av telefoner är intressant för att bevara tillgängligheten av material.
+- Ekonomisk: Den ekonomiska dimensionen handlar om hur vi hushåller med resurser som är viktiga för att upprätthålla mänsklig välfärd nu och i framtiden. Men också hur vi förvaltar den infrastruktur som vi har i samhället idag. En mobiltillverkare behöver lämpligen se över sin egen resursutvinning och beställningar av material från tredjepartsföretag. Om ändliga resurser brukas för tillverkning av komponenter är det av intresse för framtida tillverkning att minska användningen av detta materialet om inte utesluta det helt och hållet för att låta kommande generationer utvinna materialet också. Även återvinning av telefoner är intressant för att bevara tillgängligheten av material. Vad gäller ekonomiskt kapital kan det vara värt att investeringar i att t.e.x övergå till modernare tekniker (t.e.x ha stöd för nya mobilnät) för att effektivisera och gynna en övergång till ny infrastruktur.
 
     - TLDR: Hushållning av resurser, ekonomiska system som beaktar miljön & människan.
 
