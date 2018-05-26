@@ -351,7 +351,7 @@ farliga ämnen och genom att sälja produkter som är enklare att återvinna/åt
 
 #### REACH
 
-- EU-lag som ämnar att skydda miljö och människa från kemikalier.
+- EU-förordning som ämnar att skydda miljö och människa från kemikalier.
 - Gäller alla kemiska substanser, t.ex. rengöringsprodukter och färg.
 - Lägger bevisbördan på företag. För att uppfylla lagen måste företag identifiera och hantera de risker som relaterar till de substanser som företag producerar eller marknadsför i EU.
 
