@@ -319,7 +319,9 @@ Lösningar för ökad flexibilitet:
 
 #### Vad innebär producentansvar och hur fungerar det inom elektronikindustrin i Sverige?
 
-Den som har ansvar för en produkt (producent/importör) har ett ansvar att sama in och ta hand om uttjänta produkter. Syftet är också att motivera producenter att ta fram produkter som är resurssnåla och lättare att återvinna.
+Den som har ansvar för en produkt (producent/importör) har ett ansvar att samla in och ta hand om uttjänta produkter. Syftet är också att motivera producenter att ta fram produkter som är resurssnåla och lättare att återvinna.
+
+I Sverige har vi speciella mottagningsställen för elektronik för att undvika spridning av farliga ämnen osv.
 
 #### Vad regleras av EU-direktiven RoHS, WEEE, och REACH?
 
